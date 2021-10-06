@@ -1,0 +1,15 @@
+$head: #ffffff;
+$paragraph:#130f40;
+$bg: #3498db;
+
+div{
+  background: $bg;
+  
+  h2{
+    color:$head;
+  }
+  p{
+    color: $paragraph;
+  }
+
+}
